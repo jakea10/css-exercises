@@ -1,0 +1,20 @@
+.classA,
+.classB {
+    background-color: #F08080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#idA {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.classB {
+    font-size: 24px;
+}
+
+#idB {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
